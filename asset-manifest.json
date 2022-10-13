@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Next-Home/static/css/main.2e13e55b.css",
+    "main.js": "/Next-Home/static/js/main.9328497b.js",
+    "static/media/banner.png": "/Next-Home/static/media/banner.1a3c8a0a448e8e24f6a0.png",
+    "index.html": "/Next-Home/index.html",
+    "main.2e13e55b.css.map": "/Next-Home/static/css/main.2e13e55b.css.map",
+    "main.9328497b.js.map": "/Next-Home/static/js/main.9328497b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e13e55b.css",
+    "static/js/main.9328497b.js"
+  ]
+}
